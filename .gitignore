@@ -2,6 +2,7 @@
 
 # Custom
 .python-version
+*.code-workspace
 .mcpregistry_*
 *.mcpb
 tests/e2e/fixtures/*.duckdb
